@@ -1,1 +1,2 @@
-module.exports = require("./lib/telegram");
+require('coffee-script/register');
+module.exports = require("./src/telegram");
